@@ -1,5 +1,30 @@
 # Microsoft Azure Stuff
 
+<!-- vim-markdown-toc GFM -->
+
+* [Requirements](#requirements)
+  * [Retrieving information](#retrieving-information)
+    * [Retrieving the Tenant ID](#retrieving-the-tenant-id)
+    * [Retrieving the Client ID](#retrieving-the-client-id)
+    * [Retrieving the Client Secret](#retrieving-the-client-secret)
+    * [Retrieving the Subscription ID](#retrieving-the-subscription-id)
+* [Setup](#setup)
+  * [MS Azure CLI](#ms-azure-cli)
+    * [Installation](#installation)
+  * [Python](#python)
+    * [Installation](#installation-1)
+* [Usage](#usage)
+  * [Python](#python-1)
+* [Resources](#resources)
+  * [MS Azure](#ms-azure)
+  * [MS Azure DevOps](#ms-azure-devops)
+  * [MS Azure Scripting](#ms-azure-scripting)
+    * [MS Azure CLI](#ms-azure-cli-1)
+    * [MS Azure Python SDK](#ms-azure-python-sdk)
+    * [MS Azure Ruby SDK](#ms-azure-ruby-sdk)
+
+<!-- vim-markdown-toc -->
+
 ## Requirements
 
 * Python 3.7 or newer
